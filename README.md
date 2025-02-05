@@ -13,7 +13,7 @@ I'm **Abu Rayhan**, a **Frontend Web Developer** with a **Diploma in Computer Te
 
 ---
 
-## Current Activities: <img src="https://i.ibb.co/NgYQ7Vh3/loading.gif" width='30'/>
+## Current Activities: <img src="https://i.ibb.co/BH5j0HPq/fireworks.gif" width='30'/>
 - Exploring **Next.js** for **server-side rendering** and **static site generation**.
 - Working on an **asset management system website** named **AssetWise**.
 - Enhancing my knowledge of **React** and **Tailwind CSS** for building responsive and user-friendly interfaces.
