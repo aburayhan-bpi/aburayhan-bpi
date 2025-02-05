@@ -84,7 +84,7 @@ I'm **Abu Rayhan**, a **Frontend Web Developer** with a **Diploma in Computer Te
 
 ---
 
-## Stats, Streak, and Languages
+## Stats, Streak, Contributions, and Languages
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aburayhan-bpi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="Stats" />
