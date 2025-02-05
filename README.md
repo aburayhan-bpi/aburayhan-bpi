@@ -18,7 +18,7 @@ I'm **Abu Rayhan**, a **Frontend Web Developer** with a **Diploma in Computer Te
 - Working on an **asset management system website** named **AssetWise**.
 - Enhancing my knowledge of **React** and **Tailwind CSS** for building responsive and user-friendly interfaces.
 
----
+
 
 ## <h2 align="center" style="color: #124559; background-color: #e0f7fa; padding: 10px 20px; border-radius: 5px;">Skills</h2>
 
