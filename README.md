@@ -5,6 +5,8 @@
 
 ---
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aburayhan-bpi.aburayhan-bpi" />
+
+
 ## About Me
 
 I'm **Abu Rayhan**, a **Frontend Web Developer** with a **Diploma in Computer Technology**. I’m passionate about learning and enhancing my skills in modern web development to create efficient and functional websites. My goal is to improve the **performance**, **design**, and **usability** of web applications.
