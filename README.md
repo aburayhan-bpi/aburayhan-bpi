@@ -20,7 +20,7 @@ I'm **Abu Rayhan**, a **Frontend Web Developer** with a **Diploma in Computer Te
 
 ---
 
-## Skills
+## <h2 align="center" style="color: #124559; background-color: #e0f7fa; padding: 10px 20px; border-radius: 5px;">Skills</h2>
 
 ### Frontend
 <div align="left">
