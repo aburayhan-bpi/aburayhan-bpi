@@ -77,7 +77,21 @@
 
 ###
 
+### Connect with me (Social Links):
+<div align="left">
+  <a href="linkedin.com/in/aburayhan-bpi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/aburayhan_bpi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://github.com/aburayhan-bpi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="52" height="40" alt="github logo" />
+  </a>
+</div>
 
+
+###
 
 <!-- Stats, Streak, and Languages Section -->
 <div align="center" style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
