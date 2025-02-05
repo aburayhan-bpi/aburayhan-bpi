@@ -12,6 +12,11 @@
 <p align="left">I'm Abu Rayhan, a Frontend Web Developer with a Diploma in Computer Technology. I’m passionate about learning and enhancing my skills in modern web development to create efficient and functional websites. My goal is to improve the performance, design, and usability of web applications.</p>
 
 ###
+**Current Activities**:
+- Exploring **Next.js** and its features for server-side rendering and static site generation.
+- Working on an **asset management system website** named **AssetWise**.
+- Enhancing my knowledge of **React** and **Tailwind CSS** for building responsive and user-friendly interfaces.
+
 
 <h2 align="left">I code with</h2>
 
