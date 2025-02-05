@@ -1,5 +1,3 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
 ![Banner!](./images/aburayhan.png "Bnner")
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
