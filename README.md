@@ -7,7 +7,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aburayhan-bpi.aburayhan-bpi" />
 
 
-## About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+## About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" />
 
 I'm **Abu Rayhan**, a **Frontend Web Developer** with a **Diploma in Computer Technology**. I’m passionate about learning and enhancing my skills in modern web development to create efficient and functional websites. My goal is to improve the **performance**, **design**, and **usability** of web applications.
 
