@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="./images/aburayhan.png" alt="Banner!" title="Banner" width="80%" />
+  <img src="./images/aburayhan.png" alt="Banner!" title="Banner" />
 </div>
 
 <!-- Stats, Streak, and Languages Section -->
