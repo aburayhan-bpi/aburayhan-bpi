@@ -3,11 +3,13 @@
   <img src="./images/aburayhan.png" alt="Banner!" title="Banner" />
 </div>
 
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">I'm Abu Rayhan. I'm a student and a frontend web developer.<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">I'm Abu Rayhan, a Frontend Web Developer with a Diploma in Computer Technology. I’m passionate about learning and enhancing my skills in modern web development to create efficient and functional websites. My goal is to improve the performance, design, and usability of web applications.</p>
 
 ###
 
